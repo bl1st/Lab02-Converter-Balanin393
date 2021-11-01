@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lab01-Balanin-Calculator</string>
+    <string name="textView_A">A:</string>
+    <string name="textView_B">B:</string>
+    <string name="textView_result">Result</string>
+    <string name="editTextView_A">Enter first value</string>
+    <string name="editTextView_B">Enter second Value</string>
+    <string name="editTextView_result">Result value here</string>
+    <string name="editText_result">Result value</string>
+    <string name="button_Add">Add</string>
+    <string name="button_Sub">Sub</string>
+    <string name="button_Multiply">Multiply</string>
+    <string name="button_Divide">Divide</string>
+    <string name="button_Sin">Sin</string>
+    <string name="button_Cos">Cos</string>
+    <string name="button_Tan">Tan</string>
+    <string name="button_Pow">Pow</string>
+    <string name="button_Sqrt">Sqrt</string>
+</resources>
