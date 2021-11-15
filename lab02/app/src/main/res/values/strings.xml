@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab02-Balanin3930-Converter</string>
+    <string name="tv_From">From:</string>
+    <string name="tv_To">To:</string>
+    <string name="button_Convert">Convert</string>
+    <string name="button_toMeters">Switch to meters</string>
+    <string name="button_toMass">Switch to mass</string>
+    <string name="button_toTime">Switch to Time</string>
+
+</resources>

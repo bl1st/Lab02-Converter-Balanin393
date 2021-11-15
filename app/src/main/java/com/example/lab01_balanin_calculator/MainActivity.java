@@ -8,7 +8,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-            //Баланин Эдуард группа 393 Лабораторная работа 1 - Простой калькулятор
+//Баланин Эдуард группа 393 Практическая работа 1 - Простой калькулятор
     EditText tA;
     EditText tB;
     TextView tC;
@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
        }
    }
    public void OnTrigonometryButton_Click(View v)
-   {
+   { //Баланин 393 Калькулятор
        if(tA.getText().length() == 0)
        {
            tC.setText("'A' number field is empty");
